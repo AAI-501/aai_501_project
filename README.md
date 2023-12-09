@@ -1,4 +1,4 @@
-##Interpreting Digital Discourse: Political Lean Prediction Based on Reddit Posts
+## Interpreting Digital Discourse: Political Lean Prediction Based on Reddit Posts
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 Project Status: [Completed]
 ## Installation
