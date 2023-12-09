@@ -32,8 +32,7 @@ The “Interpreting Digital Discourse: Political Lean Prediction Based on Reddit
 ## Technologies
    Python
 ## Project Description
-Data source: [Liberals vs Conservatives on Reddit [13000 posts] (kaggle.com)]
-( https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-13000-posts)
+Data source: [Liberals vs Conservatives on Reddit - 13000 posts (kaggle.com)](https://www.kaggle.com/datasets/neelgajare/liberals-vs-conservatives-on-reddit-13000-posts)
 Name of the variables: Title, Political Lean, Score, Id, Subreddit, URL, Num of Comments, Text, Date Created, Combined_Text, Cleaned_Text
 
 Number of variables: 11
