@@ -1,4 +1,4 @@
-#Interpreting Digital Discourse: Political Lean Prediction Based on Reddit Posts
+##Interpreting Digital Discourse: Political Lean Prediction Based on Reddit Posts
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 Project Status: [Completed]
 ## Installation
@@ -17,8 +17,8 @@ The “Interpreting Digital Discourse: Political Lean Prediction Based on Reddit
 3. SVM(Support Vector Machine)  + TfidfVectorizer
 4. SVM(Support Vector Machine)  + CountVectorizer
 5. SVM(Support Vector Machine)  + Universal Sentence Encoder
-6. Naïve Bayes + TfidfVectorizer
-7. Naïve Bayes + CountVectorizer
+6. Naive Bayes + TfidfVectorizer
+7. Naive Bayes + CountVectorizer
 8. KNN(K- Nearest Neighbors) + TfidfVectorizer
 9. KNN(K- Nearest Neighbors)  + CountVectorizer
 10. KNN(K- Nearest Neighbors)  + Universal Sentence Encoder
@@ -41,7 +41,7 @@ Size of the dataset: 12854
 
 Used Descriptive Analysis, Histogram, Plots
 
-Used SVM(Support Vector Machine)  + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder, Naïve Bayes + TfidfVectorizer | CountVectorizer, KNN(K- Nearest Neighbors) + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder, Logistic Regression + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder, Random Forest + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder
+Used SVM(Support Vector Machine)  + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder, Naive Bayes + TfidfVectorizer | CountVectorizer, KNN(K- Nearest Neighbors) + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder, Logistic Regression + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder, Random Forest + TfidfVectorizer | CountVectorizer | Universal Sentence Encoder
 ## Acknowledgments
 Thank you Andrew Van Benschoten for your support
    
